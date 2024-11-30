@@ -1,2 +1,4 @@
-
-👨🏽‍💻🥷🏽Code Wars Challenge Repository | Katas Wiz Solutions 🥷🏽👨🏽‍💻
+                🥷🏽Code Wars Challenge Repository | Katas Solutions 🥷🏽
+                
+                   https://www.codewars.com/users/wlzzz/badges/large
+                   
