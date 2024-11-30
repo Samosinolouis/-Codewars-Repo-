@@ -1,2 +1,2 @@
 
-👨🏽‍💻🥷🏽Code Wars Challenge Repository | Wiz Solutions 🥷🏽👨🏽‍💻
+👨🏽‍💻🥷🏽Code Wars Challenge Repository | Katas Wiz Solutions 🥷🏽👨🏽‍💻
