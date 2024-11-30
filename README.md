@@ -1,2 +1,2 @@
-                   Codewars Repo
-👨🏽‍💻🥷🏽Code Wars Challenge Repository | My-Solutions 🥷🏽👨🏽‍💻
+
+👨🏽‍💻🥷🏽Code Wars Challenge Repository | Wiz Solutions 🥷🏽👨🏽‍💻
