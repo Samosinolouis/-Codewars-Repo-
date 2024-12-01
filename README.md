@@ -6,8 +6,16 @@ Welcome to my Codewars solutions repository! Here, you'll find my solutions to v
 
 ## 📜 Codewars Profile
 
-![Codewars Badge](https://www.codewars.com/users/wlzzz/badges/large)  
-🌟 [Visit My Codewars Profile](https://www.codewars.com/users/wlzzz) 🌟
+   ![Codewars Badge](https://www.codewars.com/users/wlzzz/badges/large)  
+🚀 [Visit My Codewars Profile](https://www.codewars.com/users/wlzzz) 🚀
+
+---
+
+## 🫅🏽 6 Kyu Challenges
+Here’s where things start to get interesting. These **6 Kyu challenges** push my skills to new heights:
+
+- [Roman Numeral Decoder](6kyu/Roman%Numeral%Decoder.py) 
+- [Stop gninnipS My sdroW.py](6kyu/Stop%gninnipS%My%sdroW.py)
 
 ---
 
