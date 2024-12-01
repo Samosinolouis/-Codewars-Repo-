@@ -56,7 +56,7 @@ These are my solutions to **8 Kyu challenges**, ideal for beginners:
 
 ---
 
-### 🚀 What's Next?
+### 🌱 What's Next?
 
 - Continue solving more challenges to level up!  
 - Add detailed explanations or comments to solutions for learning purposes.  
