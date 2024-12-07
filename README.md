@@ -6,7 +6,7 @@ Welcome to my Codewars solutions repository! Here, you'll find my solutions to v
 
 ## 📜 Codewars Profile
 
-   ![Codewars Badge](https://www.codewars.com/users/wlzzz/badges/large)  
+   ![Codewars Badge](https://www.codewars.com/users/louis_samosino/badges/large)  
 🚀 [Visit My Codewars Profile](https://www.codewars.com/users/wlzzz) 🚀
 
 ---
