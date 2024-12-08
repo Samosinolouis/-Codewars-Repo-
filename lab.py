@@ -1,5 +1,7 @@
-def find_it(seq):
-    result = 0
-    for num in seq:
-        result ^= num
-    return result
+class MyClass:
+    def __init__(self, a, b, c):
+        self.a = a + 10
+        self.x = b * c
+
+inst_1 = MyClass(5, 2, 3)
+inst_2 = MyClass(10, 20, 30)
